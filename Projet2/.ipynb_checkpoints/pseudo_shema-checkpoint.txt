@@ -1,0 +1,45 @@
+| age						AAGE
+| class of worker				ACLSWKR
+| industry code					ADTIND
+| occupation code				ADTOCC
+| adjusted gross income				AGI
+| education					AHGA
+| wage per hour					AHRSPAY
+| enrolled in edu inst last wk			AHSCOL
+| marital status				AMARITL
+| major industry code				AMJIND
+| major occupation code				AMJOCC
+| mace						ARACE
+| hispanic Origin				AREORGN
+| sex						ASEX
+| member of a labor union			AUNMEM
+| reason for unemployment			AUNTYPE
+| full or part time employment stat		AWKSTAT
+| capital gains					CAPGAIN
+| capital losses				CAPLOSS
+| divdends from stocks				DIVVAL
+| federal income tax liability			FEDTAX
+| tax filer status				FILESTAT
+| region of previous residence			GRINREG
+| state of previous residence			GRINST
+| detailed household and family stat		HHDFMX
+| detailed household summary in household	HHDREL
+| instance weight				MARSUPWT
+| migration code-change in msa			MIGMTR1
+| migration code-change in reg			MIGMTR3
+| migration code-move within reg		MIGMTR4
+| live in this house 1 year ago			MIGSAME
+| migration prev res in sunbelt			MIGSUN
+| num persons worked for employer		NOEMP
+| family members under 18			PARENT
+| total person earnings				PEARNVAL
+| country of birth father			PEFNTVTY
+| country of birth mother			PEMNTVTY
+| country of birth self				PENATVTY
+| citizenship					PRCITSHP
+| total person income				PTOTVAL
+| own business or self employed			SEOTR
+| taxable income amount				TAXINC
+| fill inc questionnaire for veteran's admin	VETQVA
+| veterans benefits				VETYN
+| weeks worked in year				WKSWORK
